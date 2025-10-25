@@ -35,7 +35,7 @@ This repository contains two Python scripts that generate digital art through al
 
 Ensure that you have Python 3.x installed along with the following packages:
 
-- numpy
+- numpy 
 - Pillow (PIL)
 - matplotlib (required for `equation_art.py`)
 
