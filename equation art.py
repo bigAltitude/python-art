@@ -7,6 +7,7 @@ Company: Geo Consulting Limited
 Purpose: Generates a 5000x3000 pixel image with equations,
          sorts them by brightness, saves as TIFF, 
          then trims 25% off each side (final size: 2500x1500).
+Plenty of equations
 """
 
 import numpy as np
